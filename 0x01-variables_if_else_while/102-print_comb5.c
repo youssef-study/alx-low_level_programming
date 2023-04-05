@@ -16,13 +16,15 @@ int main(void) {
                putchar(' ');
                putchar(l);
                putchar(k);
+	       if(m=57 && i==56 && l==57 && k==57+)
+	       break;
                putchar(',');
                putchar(' ');
            }
          h=47;
     }
-        }
     }
-
+    }
+    putchar('\n');
     return 0;
 }
